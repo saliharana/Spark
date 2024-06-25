@@ -1,5 +1,4 @@
-# Spark
-## Churn Prediction Project
+## Simple Churn Prediction Project with Spark
 
 # About the Project
 This project includes a simple machine learning model built using Apache Spark to predict customer churn (customer losses). 
